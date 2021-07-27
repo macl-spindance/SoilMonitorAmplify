@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "soilmonitoramplifyb4d9a91a": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-soilmonitoramplify-dev-190332-authRole",
+      "UnauthRoleArn": "arn:aws:iam::480257627582:role/amplify-soilmonitoramplify-dev-190332-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::480257627582:role/amplify-soilmonitoramplify-dev-190332-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-soilmonitoramplify-dev-190332-deployment",
+      "UnauthRoleName": "amplify-soilmonitoramplify-dev-190332-unauthRole",
+      "StackName": "amplify-soilmonitoramplify-dev-190332",
+      "StackId": "arn:aws:cloudformation:us-east-1:480257627582:stack/amplify-soilmonitoramplify-dev-190332/16c36710-ee6e-11eb-8075-121037570659",
+      "AmplifyAppId": "d2ksrdz5q69p5m"
+    },
+    "categories": {
+      "auth": {
+        "soilmonitoramplifyb4d9a91a": {}
+      }
+    }
+  }
+}

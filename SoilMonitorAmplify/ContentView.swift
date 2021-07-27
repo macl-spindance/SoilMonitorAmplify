@@ -1,16 +1,15 @@
 //
 //  ContentView.swift
-//  SoilMonitorAmplify
+//  SoilMonitor
 //
-//  Created by Mac Lobdell on 7/26/21.
+//  Created by Mac Lobdell on 7/22/21.
 //
 
 import SwiftUI
-
+/*
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        SoilMonitorView()
     }
 }
 
@@ -19,3 +18,4 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+*/
